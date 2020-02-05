@@ -4,4 +4,4 @@
 * **'Left and Right arrow keys' - Move spaceship**
 * **'Space' - Fire rockets**
 
-![screenshot](https://raw.githubusercontent.com/npecko/Space-Invaders/master/space_invaders.png)
+![screenshot](https://raw.githubusercontent.com/npecko/Space-Invaders/master/screenshot_space_invaders.png)
